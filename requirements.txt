@@ -1,0 +1,8 @@
+# Python version
+python_version >= 3.8
+
+# Required libraries
+requests==2.28.1
+beautifulsoup4==4.11.1
+configparser==5.3.0
+urllib3==1.26.12
